@@ -1,0 +1,2 @@
+[0711/112432:WARNING:ipc_channel_win.cc(153)] failed to create pipe: 2
+[0711/112432:WARNING:ipc_channel_win.cc(46)] Unable to create pipe named "rgsc_launcher_0" in client mode.
